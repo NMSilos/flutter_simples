@@ -1,6 +1,7 @@
 # projeto_simples
 
 A new Flutter project created with FlutLab - https://flutlab.io
+Criado por Nicolas Marques
 
 ## Getting Started
 
