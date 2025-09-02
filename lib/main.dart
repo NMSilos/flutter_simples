@@ -35,7 +35,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Oi, sou eu, o Nicolas!',
+          'OI, EU SOU O GOKU!',
         ),
       ),
     );
